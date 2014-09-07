@@ -1,4 +1,6 @@
 datasciencecoursera
 ===================
 
-My Specialization at Data Science on Coursera
+## Welcome!
+
+This repository is about my Data Science Specialization on Coursera
